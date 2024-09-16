@@ -24,9 +24,9 @@ Both banks and credit unions are experiencing growth in assets and facing rising
 
 ### Key Performance Metrics (Q1 and Q2 2024)
 - **Net Interest Margin (NIM)**: Banks have a higher NIM (3.44%) than credit unions (3.05%), reflecting better income from interest-earning assets.
-- **Fee Income**: Banks generate significantly more fee income than credit unions ($77.8 billion vs. $9.7 billion).
+- **Fee Income**: Banks generate significantly more fee income than credit unions (\$77.8 billion vs. \$9.7 billion).
 - **Delinquency Rates**: Credit unions have a lower delinquency rate (0.84%) than banks, though credit unions see higher consumer loan delinquencies.
-- **Profitability**: Banks maintain higher net income ($64.2 billion) compared to credit unions ($15.7 billion), driven by stronger fee generation and interest rate advantages.
+- **Profitability**: Banks maintain higher net income (\$64.2 billion) compared to credit unions (\$15.7 billion), driven by stronger fee generation and interest rate advantages.
 
 ### Implications
 - Banks could be more vulnerable to future interest rate shifts due to their reliance on NIM.
