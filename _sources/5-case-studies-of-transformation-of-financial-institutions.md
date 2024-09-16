@@ -30,7 +30,7 @@ Golden Goose Community Bank is a small community bank with a healthy financial p
 Healthy financial position, moderate risk profile, and strong capital adequacy ratio
 
 | Metric          | 2024    | 2025    | 2026    |
-|:----------------|--------:|--------:|--------:|
+|----------------|--------|--------|--------|
 | Assets          | \$500M   | \$525M   | \$551M   |
 | Deposits        | \$400M   | \$420M   | \$441M   |
 | Loans           | \$300M   | \$315M   | \$331M   |
@@ -44,7 +44,7 @@ Healthy financial position, moderate risk profile, and strong capital adequacy r
 Improved financial performance, increased assets, deposits, loans, NIM, ROA, and ROE
 
 | Metric          | 2024    | 2025    | 2026    |
-|:----------------|--------:|--------:|--------:|
+|----------------|--------|--------|--------|
 | Assets          | \$550M   | \$605M   | \$665M   |
 | Deposits        | \$450M   | \$505M   | \$565M   |
 | Loans           | \$350M   | \$400M   | \$455M   |
@@ -59,14 +59,14 @@ Improved financial performance, increased assets, deposits, loans, NIM, ROA, and
 Shift from reliance on net interest income (75%) to a more balanced mix of net interest income (60%) and non-interest income (40%)
 
 | Income Type              | Amount     | Percentage    |
-|:-----------------------|-----------:|---------------:|
+|-----------------------|-----------|---------------|
 | Net Interest Income    | \$15M       | 75%            |
 | Non-Interest Income    | \$5M        | 25%            |
 
 ##### **Post-transformation (2026) Income Composition**: 
 
 | Income Type            | Amount | Percentage |
-|:--------------------|-------:|-----------:|
+|--------------------|-------|-----------|
 | Net Interest Income | \$20M   | 60%        |
 | Non-Interest Income | \$14M   | 40%        |
 
@@ -76,7 +76,7 @@ Shift from reliance on net interest income (75%) to a more balanced mix of net i
 Upward trend, reaching 4.20% in 2028
 
 | Year | NIM   |
-|:-----|------:|
+|-----|------|
 | 2024 | 3.50% |
 | 2025 | 3.75% |
 | 2026 | 4.00% |
@@ -115,7 +115,7 @@ Rose Community Bank is a small community bank with a failing financial position 
 Failing financial position, high risk profile, and weak capital adequacy ratio
 
 | Metric          | 2024    | 2025    | 2026    |
-|:----------------|--------:|--------:|--------:|
+|----------------|--------|--------|--------|
 | Assets          | \$300M   | \$290M   | \$280M   |
 | Deposits        | \$200M   | \$190M   | \$180M   |
 | Loans           | \$250M   | \$240M   | \$230M   |
@@ -130,7 +130,7 @@ Failing financial position, high risk profile, and weak capital adequacy ratio
 Turnaround efforts, improved financial performance, increased assets, deposits, loans, NIM, ROA, and ROE
 
 | Metric          | 2024    | 2025    | 2026    |
-|:----------------|--------:|--------:|--------:|
+|----------------|--------|--------|--------|
 | Assets          | \$320M   | \$350M   | \$385M   |
 | Deposits        | \$220M   | \$250M   | \$285M   |
 | Loans           | \$270M   | \$305M   | \$345M   |
@@ -146,7 +146,7 @@ Shift from reliance on net interest income (70%) to a more balanced mix of net i
 
 
 | Category               | Amount     | Percentage    |
-|:-----------------------|-----------:|---------------:|
+|-----------------------|-----------|---------------|
 | Net Interest Income    | \$7M        | 70%            |
 | Non-Interest Income    | \$3M        | 30%            |
 
@@ -154,7 +154,7 @@ Shift from reliance on net interest income (70%) to a more balanced mix of net i
 ##### **Post-transformation (2026) Income composition**: 
 
 | Category               | Amount     | Percentage    |
-|:-----------------------|-----------:|---------------:|
+|-----------------------|-----------|---------------|
 | Net Interest Income    | \$15M       | 55%            |
 | Non-Interest Income    | \$12M       | 45%            |
 
@@ -162,7 +162,7 @@ Shift from reliance on net interest income (70%) to a more balanced mix of net i
 ##### **Rose Community Bank 5-year NIM projection**: Improving to 4.00% in 2028
 
 | Year | NIM    |
-|:-----|-------:|
+|-----|-------|
 | 2024 | 3.00%  |
 | 2025 | 3.25%  |
 | 2026 | 3.50%  |
@@ -246,7 +246,7 @@ Electricians United Credit Union is a small credit union with a struggling finan
 
 
 | **Attributes**          | **Description**                         |
-|:-----------------------|:-----------------------------------------|
+|-----------------------|-----------------------------------------|
 | Entity Name           | Electricians United Credit Union        |
 | Entity Type           | Small Credit Union                      |
 | Health Status         | Struggling                             |
@@ -284,7 +284,7 @@ Electricians United Credit Union is a small credit union with a struggling finan
 Struggling credit union with limited resources, small membership base, and high funding costs
 
 | Metric | 2024 | 2025 | 2026 |
-|:-------|:-------|:-------|:-------|
+|-------|-------|-------|-------|
 | Assets | \$10M   | \$10.5M | \$11M   |
 | Deposits | \$8M   | \$8.5M | \$9M    |
 | Loans | \$6M   | \$6.5M | \$7M    |
@@ -303,7 +303,7 @@ Struggling credit union with limited resources, small membership base, and high 
 Improved financial stability and resilience, increased deposit critical mass, and enhanced operational efficiency
 
 | Metric | 2024 | 2025 | 2026 |
-|:-------|:-------|:-------|:-------|
+|-------|-------|-------|-------|
 | Assets | \$12M   | \$15M   | \$18M   |
 | Deposits | \$10M   | \$12M   | \$14M   |
 | Loans | \$8M   | \$10M   | \$12M   |
@@ -335,7 +335,7 @@ Electricians United Credit Union undertook key strategic initiatives, including 
 Shift from reliance on interest income to a more diversified income stream, including non-interest income, fee income, and other income
 
 | **Income Source** | 2024 | 2025 | 2026 | 2024 % | 2025 % | 2026 % |
-|:------------------|:--------|:--------|:--------|:----------|:----------|:----------|
+|------------------|--------|--------|--------|----------|----------|----------|
 | Interest Income   | \$1.2M   | \$1.3M   | \$1.4M   | 77.4%     | 78.8%     | 80.0%     |
 | Non-Interest Income| \$0.2M   | \$0.2M   | \$0.2M   | 12.9%     | 12.1%     | 11.4%     |
 | Fee Income        | \$0.1M   | \$0.1M   | \$0.1M   | 6.5%      | 6.1%      | 5.7%      |
@@ -346,7 +346,7 @@ Shift from reliance on interest income to a more diversified income stream, incl
 ##### **Post-transformation Income Composition**:
 
 | **Income Source** | 2024 | 2025 | 2026 | 2024 % | 2025 % | 2026 % |
-|:------------------|:--------|:--------|:--------|:----------|:----------|:----------|
+|------------------|--------|--------|--------|----------|----------|----------|
 | Interest Income   | \$1.8M   | \$2.2M   | \$2.6M   | 69.2%     | 66.7%     | 65.0%     |
 | Non-Interest Income| \$0.5M   | \$0.8M   | \$1.1M   | 19.2%     | 24.2%     | 27.5%     |
 | Fee Income        | \$0.2M   | \$0.3M   | \$0.4M   | 7.7%      | 9.1%      | 10.0%     |
@@ -369,7 +369,7 @@ Key Changes:
 Steady growth from 2.50% in 2024 to 3.50% in 2028
 
 | Year | NIM |
-|:-----|:----|
+|-----|----|
 | 2024 | 2.50% |
 | 2025 | 2.75% |
 | 2026 | 3.00% |
